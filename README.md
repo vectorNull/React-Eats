@@ -1,5 +1,8 @@
 # React-Eats
 
+![reactEats](https://user-images.githubusercontent.com/50179896/166514026-32a33a79-df18-4146-b457-169fb0f60c45.png)
+
+
 ## Demo link:
 <!---Access my site at [google.com](https://google.com) --->
 Coming soon
@@ -42,7 +45,7 @@ Coming soon!
 
 ## Credits
 List of contriubutors:
-- [Jose Rodriguez
+- Jose Rodriguez
 
 ## License
 
