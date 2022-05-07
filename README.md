@@ -30,6 +30,7 @@ Coming soon!
 - ContextAPI
 - Hooks
   - useState()
+  - useContext()
   - useEffect()
   - useReducer()
   - useRef()
